@@ -24,6 +24,7 @@
     <!--MAIN CONTENT-->
       {body}
       {starred}
+      {sourceUrl}
 
     {.end}
 
