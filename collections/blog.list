@@ -23,6 +23,7 @@
 
     <!--MAIN CONTENT-->
       {body}
+      {starred}
 
     {.end}
 
