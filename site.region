@@ -13,9 +13,9 @@
     <div class="container">
 
       <header class="header">
-        <h1 class="site-title">
+        <h1 class="site-title" data-content-field="site-title">
           <a href="/">
-            Rocket Radio Developer Platform 
+            {website.siteTitle} 
           </a>
         </h1>
       </header>
