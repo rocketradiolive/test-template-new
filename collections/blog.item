@@ -17,6 +17,8 @@
     <!--MAIN CONTENT-->
 
     {body}
+    {updatedOn}
+    {starred}
 
   </article>
 
