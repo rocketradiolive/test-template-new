@@ -2,9 +2,9 @@
 <squarespace:query collection="{.section collection}{urlId}{.end}" featured="true" limit="5">
 
   <div class="featured-wrapper">
+    <h1>"FEATURED by"</h1>
     {.repeated section items}
     <div class="featured-post">
-      {.main-image?}<img {@|image-meta} />{.end}
       <h2>{title}</h2>
     </div>
     {.end}
