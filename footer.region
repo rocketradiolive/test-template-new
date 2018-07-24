@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
-<div id="footer" role="footer" data-content-field="footer">
+<section id="footer" role="footer" data-content-field="main-content">
     <!--Injection point for tracking scripts and user content from the code injection tab.-->
     {squarespace-footers}
-  </div>
+  </section>
 </html>
