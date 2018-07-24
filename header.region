@@ -8,8 +8,14 @@
     {squarespace-headers}
   </head>
 
-    <header class="header">
-      <h1 class="site-title" data-content-field="site-title">
-      </h1>
-    </header>
-</html>
+  <body>
+
+    <div class="container">
+
+      <header class="header">
+        <h1 class="site-title" data-content-field="site-title">
+          <a href="/">
+            {website.siteTitle}
+          </a>
+        </h1>
+      </header>
