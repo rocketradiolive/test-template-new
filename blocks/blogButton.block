@@ -1,0 +1,5 @@
+<div>
+  <span class="rrplay" onclick={ playPodcast }>{ playing? 'PAUSE' : 'PLAY' }</span>
+  <a href="{ downloadUrl }" download="RRpodcast.mp3" class="rrdownload">DOWNLOAD</a>
+
+</div>

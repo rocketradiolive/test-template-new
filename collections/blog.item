@@ -19,6 +19,7 @@
     {body}
     {updatedOn}
     {starred}
+    {@|apply blogButton.block}
 
   </article>
 
