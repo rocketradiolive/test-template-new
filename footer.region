@@ -1,7 +1,8 @@
 <!doctype html>
 <html>
-<section id="footer" role="footer" data-content-field="main-content">
+<footer id="footer">
+   <squarespace:block-field id="footerBlocks" columns="12" />
+ </footer>
     <!--Injection point for tracking scripts and user content from the code injection tab.-->
     {squarespace-footers}
-  </section>
 </html>
