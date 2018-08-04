@@ -12,6 +12,8 @@
 
 </squarespace:query>
 
+{tags}
+
 {.repeated section items}
 
   <!--WRAPPER-->
