@@ -12,7 +12,7 @@
 
 </squarespace:query>
 
-{tags}
+<p>{tags}</p>
 
 {.repeated section items}
 
