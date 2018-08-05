@@ -19,4 +19,5 @@
             <p>QUESTO ERA IL TITOLO</p>
           </a>
         </h1>
+        <squarespace:navigation navigationId="mainNav" template="navigation" />
       </header>
