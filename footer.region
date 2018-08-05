@@ -4,7 +4,7 @@
  </footer>
 <!--Injection point for tracking scripts and user content from the code injection tab.-->
 {squarespace-footers}
-<p>"QUESTO è IL FOOTER"</p>
+<p>QUESTO ERA IL FOOTER</p>
 
 </body>
 </html>
