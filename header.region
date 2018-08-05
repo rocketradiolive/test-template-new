@@ -16,6 +16,7 @@
         <h1 class="site-title" data-content-field="site-title">
           <a href="/">
             {website.siteTitle}
+            <p>"QUESTO è IL TITOLO"</p>
           </a>
         </h1>
       </header>
